@@ -1,1 +1,1 @@
-Este proyecto se realizo en NetBeans utilizando MySQL, se espera a futuro implementarle mejoras a este proyecto
+Este proyecto se realizo en NetBeans utilizando MySQL, se espera a futuro implementarle mejoras a este proyecto (Clase programación II)
