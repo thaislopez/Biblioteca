@@ -1,0 +1,13 @@
+	Biblioteca DEMT
+
+Cliente:Victor Madrigal
+Cedula:  315840733
+Fecha:   Sun Apr 16 16:58:06 CST 2023
+----------------------------------
+Descripción                      | Cant. |  Precio
+----------------------------------
+Touchstone student's edition     |   1   | 32000.0
+----------------------------------
+SubTotal: |32000.0
+IVA:      |4160
+Total:	  |36160
